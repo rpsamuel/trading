@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+numpy
+sklearn
+alpaca-trade-api>=0.25
+TA-Lib
+ta-lib
